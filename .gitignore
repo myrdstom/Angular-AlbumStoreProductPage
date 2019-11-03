@@ -43,5 +43,6 @@ tutor-karma.conf.js
 .DS_Store
 Thumbs.db
 
+#lock files
 package-lock.json
 yarn.lock
